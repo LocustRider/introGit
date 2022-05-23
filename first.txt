@@ -1,2 +1,4 @@
 gitの練習をしていきますよ。
+git add
+git commit
 うんこが漏れそうです！
