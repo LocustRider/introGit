@@ -1,4 +1,7 @@
-gitの練習をしていきますよ。
+fa
+f
+afalj
+gijofagitの練習をしていきますよ。
 git add
 git commit
 うんこが漏れそうです！
